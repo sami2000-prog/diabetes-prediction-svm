@@ -1,0 +1,4 @@
+PatientID,RegisteredAt,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age
+8D148D83,2026-10-26T12:34:00,2,5.0,0.0,0.0,8.0,0.2,0.0,19
+8489D189,2026-10-26T12:38:28,4,5.0,0.04,0.01,8.0,0.2,0.0,19
+97063DBF,2026-11-01T19:26:36,5,6.0,1.0,0.0,0.04,0.0,0.356,28
